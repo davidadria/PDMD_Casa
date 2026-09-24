@@ -7,5 +7,7 @@ fun main() {
 
     // ejercicio3()
 
-    ejercicio4()
+//    ejercicio4()
+
+    ejercicio5()
 }
