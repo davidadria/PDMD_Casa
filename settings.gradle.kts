@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "PMDM_Casa"
 include(":app")
 include(":PDMD_Casa")
+include(":Temporizador")
