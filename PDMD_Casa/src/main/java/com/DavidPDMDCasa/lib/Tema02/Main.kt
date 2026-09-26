@@ -14,5 +14,7 @@ fun main() {
 //    println("Num1 Par?" + ejercicio6(4))
 //    println("Num2 Par?" + ejercicio6(7))
 
-    ejercicio7()
+//    ejercicio7()
+
+    ejercicio8()
 }
