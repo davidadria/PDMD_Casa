@@ -16,5 +16,7 @@ fun main() {
 
 //    ejercicio7()
 
-    ejercicio8()
+//    ejercicio8()
+
+    ejercicio9()
 }
