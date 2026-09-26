@@ -11,5 +11,8 @@ fun main() {
 
 //    ejercicio5()
 
-    ejercicio6()
+//    println("Num1 Par?" + ejercicio6(4))
+//    println("Num2 Par?" + ejercicio6(7))
+
+
 }
