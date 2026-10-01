@@ -22,5 +22,8 @@ fun main() {
 
    // ejercicio10()
 
-   ejercicio11(3, 10)
+//   ejercicio11(3, 10)
+
+   var lista: List<String> = listOf("Destornillador", "Davinci", "Euskadi", "Dam")
+   print("\nPrimera palabra que coincide con Da: " + ejercicio12(lista))
 }
