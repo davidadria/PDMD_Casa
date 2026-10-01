@@ -20,5 +20,7 @@ fun main() {
 
 //    ejercicio9()
 
-    ejercicio10()
+   // ejercicio10()
+
+   ejercicio11(3, 10)
 }
